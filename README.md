@@ -1,5 +1,5 @@
 # NHS FFT Patient Satisfaction Insights
-This project analyses the NHS Friends and Family Test (FFT) data for February 2026, performing exploratory data analysis to uncover patient satisfaction insights at both a national level and through a focused deep dive into Medway NHS Foundation Trust. Key skills demonstrated include Python, SQL (MySQL), and Tableau Public. The project was bukt to reflect a genuine interest in healthcare data analysis and to simulate the kind of analytical work performed by a data analyst embedded within an NHS organisation. 
+This project analyses the NHS Friends and Family Test (FFT) data for February 2026, performing exploratory data analysis to uncover patient satisfaction insights at both a national level and through a focused deep dive into Medway NHS Foundation Trust. Key skills demonstrated include Python, SQL (MySQL), and Tableau Public. The project was built to reflect a genuine interest in healthcare data analysis and to simulate the kind of analytical work performed by a data analyst embedded within an NHS organisation. 
 
 ## 🔗 Dashboard Links
 
