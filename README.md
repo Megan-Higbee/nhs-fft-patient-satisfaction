@@ -112,4 +112,5 @@ CREATE DATABASE nhs_fft;
 
 ## 👤 About
 Megan Higbee - Aspiring Healthcare Data Analyst
+
 [LinkedIn] (www.linkedin.com/in/megan-higbee)
